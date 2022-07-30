@@ -10,6 +10,9 @@
 
 그림 색상추출-Color_Extraction.ipynb 파일에서 k=5인 k-mean 클러스터링을 진행하였고
 
-K-prototype clustering.ipynb파일에서 클러스터링을 진행한 뒤, 그 결과를 KPrototypes_Output_images 폴더에 클러스터별로 정리하는 식으로 코드를 구성하였습니다.
+K-prototype clustering.ipynb파일에서 k=4클러스터링을 진행한 뒤, 그 결과를 KPrototypes_Output_images 폴더에 클러스터별로 정리하는 식으로 코드를 구성하였습니다.
+(k=4가 최적이라는 뜻은 아닙니다. 색을 다 넣는것이 옳은지, 비율을 넣는것이 맞는지 등 여러 변수들의 선정과 파라미터 조정 같은 수정이 필요한 코드입니다.)
 
 기타 사용방법은 두 코드를 교차 참조하며 확인하면 좋을 것 같습니다.
+
+
